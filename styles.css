@@ -1,0 +1,24 @@
+/*Hoja de estilos*/
+
+#entorno {
+    display: block;
+    margin: 0 auto;
+}
+
+#fondos {
+    opacity: 0.3;
+}
+
+body {
+    font-size: 80%;
+    background-color: rgb(245, 211, 75);
+}
+
+#movile {
+    width: 250;
+    height: 300;
+}
+
+#en {
+    background-color: blue;
+}
